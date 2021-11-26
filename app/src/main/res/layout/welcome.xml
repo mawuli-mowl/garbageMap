@@ -1,0 +1,166 @@
+<HorizontalScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent" android:layout_height="wrap_content" >
+	<!-- 
+	/*
+	 *	This content is generated from the API File Info.
+	 *	(Alt+Shift+Ctrl+I).
+	 *
+	 *	@desc 		
+	 *	@file 		garbagemap
+	 *	@date 		1637940474143
+	 *	@title 		Artboards
+	 *	@author 	Joshu and Nathaniel
+	 *	@keywords 	
+	 *	@generator 	Export Kit v1.3.figma
+	 *
+	 */
+	-->
+	<ScrollView android:id="@+id/welcome" 
+		android:layout_width="wrap_content" 
+		android:layout_height="match_parent" >
+
+		<RelativeLayout android:id="@+id/content_container" 
+			android:layout_width="wrap_content" 
+			android:layout_height="wrap_content" >
+
+
+
+
+
+
+
+			<RelativeLayout android:id="@+id/page_welcome_ek1"
+				android:layout_marginTop="0dp"
+				android:layout_marginStart="0dp"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				>
+
+				<View android:id="@+id/_bg__welcome_ek2"
+					android:background="@drawable/_bg__welcome_ek2_shape"
+					 android:layout_marginStart="0dp"
+					android:layout_marginTop="0dp"
+					android:layout_width="385dp"
+					android:layout_height="926dp" />
+
+
+				<RelativeLayout android:id="@+id/background_ek15"
+					android:layout_marginTop="0dp"
+					android:layout_marginStart="0dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					>
+
+					<View android:id="@+id/rectangle_2_ek1"
+						android:background="@drawable/rectangle_2_ek1_shape"
+						 android:layout_marginStart="0dp"
+						android:layout_marginTop="0dp"
+						android:layout_width="428dp"
+						android:layout_height="926dp" />
+
+				</RelativeLayout>
+
+				<TextView android:id="@+id/text_ek9"
+					android:fontFamily="Arial"
+					android:layout_gravity="center_horizontal|center"
+					android:gravity="center"
+					android:textSize="22sp"
+					android:textColor="@color/book_now_color"
+					android:layout_marginLeft="10dp"
+					android:layout_marginTop="384dp"
+					android:layout_width="370dp"
+					android:layout_height="56dp"
+					android:text="@string/text_ek9_string"
+					 />
+
+
+				<RelativeLayout android:id="@+id/sign_in"
+					android:layout_marginTop="689dp"
+					android:layout_marginStart="18dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					>
+
+					<View android:id="@+id/background_ek16"
+						android:background="@drawable/background_ek16_shape"
+						 android:layout_marginStart="0dp"
+						android:layout_marginTop="0dp"
+						android:layout_width="350dp"
+						android:layout_height="60dp" />
+
+					<TextView android:id="@+id/sign_in_ek1"
+						android:fontFamily="Arial"
+						android:layout_gravity="center_horizontal|center"
+						android:gravity="center"
+						android:textSize="32sp"
+						android:textColor="@color/book_now_color"
+						android:layout_marginLeft="100dp"
+						android:layout_marginTop="14dp"
+						android:layout_width="161dp"
+						android:layout_height="54dp"
+						android:text="@string/sign_in_ek1_string"
+						 />
+
+				</RelativeLayout>
+
+
+				<RelativeLayout android:id="@+id/sign_up_ek7"
+					android:layout_marginTop="567dp"
+					android:layout_marginStart="18dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					>
+
+					<View android:id="@+id/background_ek17"
+						android:background="@drawable/background_ek17_shape"
+						 android:layout_marginStart="0dp"
+						android:layout_marginTop="0dp"
+						android:layout_width="356dp"
+						android:layout_height="66dp" />
+
+					<TextView android:id="@+id/sign_up_ek8"
+						android:fontFamily="Arial"
+						android:layout_gravity="center_horizontal|center"
+						android:gravity="center"
+						android:textSize="32sp"
+						android:textColor="@color/book_now_color"
+						android:layout_marginLeft="99dp"
+						android:layout_marginTop="14dp"
+						android:layout_width="164dp"
+						android:layout_height="54dp"
+						android:text="@string/sign_up_ek8_string"
+						 />
+
+				</RelativeLayout>
+
+
+				<RelativeLayout android:id="@+id/logo"
+					android:layout_marginTop="108dp"
+					android:layout_marginStart="55dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					>
+
+					<TextView android:id="@+id/garbagemap"
+						android:fontFamily="Montserrat"
+						android:textStyle="bold"
+						android:layout_gravity="center_horizontal|center"
+						android:gravity="center"
+						android:textSize="55sp"
+						android:textColor="@color/book_now_color"
+						android:layout_marginLeft="-56.44dp"
+						android:layout_marginTop="2dp"
+						android:layout_width="403dp"
+						android:layout_height="142.5dp"
+						android:text="@string/garbagemap_string"
+						 />
+
+				</RelativeLayout>
+
+			</RelativeLayout>
+
+
+		</RelativeLayout>
+
+	</ScrollView>
+</HorizontalScrollView>

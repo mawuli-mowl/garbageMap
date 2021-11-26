@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="edit_profile_ek2" type="id" />
+    <item name="bg__sign_up_ek2" type="id" />
+    <item name="bg__sign_in_ek2" type="id" />
+    <item name="sign_in_ek3" type="id" />
+    <item name="sign_in_ek4" type="id" />
+    <item name="home_ek2" type="id" />
+    <item name="sign_up_ek2" type="id" />
+    <item name="sign_up_ek3" type="id" />
+    <item name="add_ek2" type="id" />
+    <item name="hotel_details_ek2" type="id" />
+    <item name="bola_details" type="id" />
+    <item name="bola_details_ek2" type="id" />
+</resources>

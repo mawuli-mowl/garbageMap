@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- garbagemap colors -->
+
+	<color name="black">#000000</color>
+	<color name="purple_500">#800050</color>
+	<color name="purple_700">#800080</color>
+	<color name="purple_200">#800050</color>
+	<color name="white">#FFFFFF</color>
+	<color name="teal_200">#008080</color>
+	<color name="teal_700">#008090</color>
+	<color name="_bg___09_hotel_details_ek2_color">#008090</color>
+
+
+
+	<color name="colorPrimary">#008577</color>
+	<color name="colorPrimaryDark">#00574B</color>
+	<color name="colorAccent">#D81B60</color>
+
+	<color name="_bg__hotel_details_ek2_color">#424242</color>
+	<color name="background_color">#F57C00</color>
+	<color name="book_now_color">#FFFFFF</color>
+	<color name="text_color">#BDBDBD</color>
+	<color name="hotel_details_ek3_color">#DDDDDD</color>
+	<color name="rectangle_11_color">#C4C4C4</color>
+	<color name="background_ek3_color">#333333</color>
+	<color name="mask_color">#999999</color>
+	<color name="rectangle_10_color">#B0A4A4</color>
+	<color name="amt_color">#000000</color>
+	<color name="rectangle_10_ek1_color">#B0A5A5</color>
+	<color name="background_ek17_color">#27B4C2</color>
+</resources>
